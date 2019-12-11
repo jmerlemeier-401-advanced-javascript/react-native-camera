@@ -1,6 +1,8 @@
 # Camera App with React Native 
 
-## Julie Erlemeier
+
+## Author: Julie Erlemeier
+
 
 ### Docs
 [Expo](https://docs.expo.io/versions/latest/sdk/camera/)
