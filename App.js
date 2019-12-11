@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <View style={{ flex: 1 }}>
-      <Text>Welcome to your Camera</Text>
+      <Text style={styles.text}>Welcome to your Camera</Text>
       {/* <Button 
         title="Get Camera"
         onPress=""
@@ -52,6 +52,10 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: 'transparent',
     flexDirection: 'row',
+  },
+  text: {
+    fontSize: 30,
+    color: 'deeppink',
   },
   touchableOpacity: {
     flex: 0.1,
